@@ -2,4 +2,4 @@
 this is the demo for git &amp; github class.
 
 # Me
-Alkama
+Alkama Ansari
